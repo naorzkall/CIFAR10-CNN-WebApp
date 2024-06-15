@@ -60,7 +60,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cifar10-image-classification-app.git
+    git clone https://github.com/naorzkall/CIFAR10-CNN-WebApp.git
     cd cifar10-image-classification-app
     ```
 
@@ -109,5 +109,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The CIFAR-10 dataset [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
 - The open-source community for the tools and libraries used in this analysis.
 ```
-
-Replace `yourusername` with your actual GitHub username, and make sure the `LICENSE` file is included in your repository if you're referencing it. This `README.md` provides a comprehensive overview of the project, instructions for setting up the environment, and guidelines for usage.
